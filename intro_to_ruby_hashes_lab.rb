@@ -2,9 +2,8 @@ def base_hash
   new_hash = {
     :reilroads => {}
   }
-  
+  end
   base_hash
-
 end
 
 def monopoly_with_second_tier
